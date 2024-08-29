@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=WeChat Auto Like
-Comment=Automatically like WeChat messages
-Exec=python3 /home/username/scripts/wechat_auto_like.py
-Icon=/path/to/your/icon.png
-Terminal=false
-Type=Application
-Categories=Utility;
-
